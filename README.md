@@ -25,10 +25,10 @@ git clone https://github.com/accelerator-01/world-wise-project.git
 cd world-wise-project
 ```
 
-### Instal node modules
+### Instal node modules (json-server, react-router-dom and react leaflet)
 
 ```sh
-npm i && npm i json-server && npm i react-router-dom && npm i react leaflet
+npm install
 ```
 
 ### After all modules needed instaled, you can run the application. Use two terminal to run server and the application!
