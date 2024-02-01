@@ -5,8 +5,6 @@
 
 Build with Jonas Schemedmant as the Instructor<br/>
 
-Using CSS module instead tailwind<br/>
-
  </p>
 
 # How to run the Application
